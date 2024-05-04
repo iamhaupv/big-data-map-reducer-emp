@@ -7,3 +7,5 @@ Max salary Department
 <img src = 'https://i.imgur.com/mu14FXw.png'/>
 Min salary by position
 <img src = 'https://i.imgur.com/bn9uSXu.png'/>
+Employee count by manager
+<img src = 'https://i.imgur.com/gHwQ9e3.png'/>
