@@ -12,3 +12,4 @@ Employee count by manager
 
 Bài 2 socical_network.csv
 <img src = 'https://i.imgur.com/oi0T7Yr.png'/>
+<img src = 'https://i.imgur.com/Gw0QSfr.png'/>
