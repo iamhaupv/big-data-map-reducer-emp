@@ -9,3 +9,6 @@ Min salary by position
 <img src = 'https://i.imgur.com/bn9uSXu.png'/>
 Employee count by manager
 <img src = 'https://i.imgur.com/gHwQ9e3.png'/>
+
+Bài 2 socical_network.csv
+<img src = 'https://i.imgur.com/oi0T7Yr.png'/>
